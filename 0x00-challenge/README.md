@@ -34,7 +34,7 @@ $ ./1-print_square.js 10
 ################
 $
 ```
-+ [] 2. Sort<br/>_**[2-sort.rb](2-sort.rb)**_ fixed sorting implementation of [this](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb) program.<br/>Error Below:
++ [ ] 2. Sort<br/>_**[2-sort.rb](2-sort.rb)**_ fixed sorting implementation of [this](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb) program.<br/>Error Below:
 ```shell
 $ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
 31
@@ -54,7 +54,7 @@ Test User
 is_valid_password should return True if it's the right password
 $
 ```
-+ [x] 4. Double linked list**[4-delete_dnodeint/](4-delete_dnodeint/)**_ contains a functions that fixed implementation of doubly linked list: [source code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/tree/master/4-delete_dnodeint).<br/>Error Below:
++ [x] 4. Double linked list**[4-delete_dnodeint](4-delete_dnodeint/)**_ contains a functions that fixed implementation of doubly linked list: [source code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/tree/master/4-delete_dnodeint).<br/>Error Below:
 ```shell
 $ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 main.c free_dlistint.c print_dlistint.c add_dnodeint_end.c delete_dnodeint_at_index.c -o delete_dnodeint
 $ ./delete_dnodeint 
